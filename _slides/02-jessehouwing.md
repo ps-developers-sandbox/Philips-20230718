@@ -1,9 +1,9 @@
 ---
 layout: slide
-title: "Welcome to our slide deck!"
+title: "Jesse Houwing!"
 ---
 
-Caption here
+Your GitHub trainer of the day!
 
-![dojocat](https://octodex.github.com/images/dojocat.jpg)
+![Jesse Houwing's Profile](https://avatars.githubusercontent.com/u/4173387?v=4)
 {: .center}
