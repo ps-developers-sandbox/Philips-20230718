@@ -1,9 +1,9 @@
 ---
-layout: slide
+layout: Karthick's Slide
 title: "Welcome to our slide deck!"
 ---
 
-Caption here
+Hello !!!
 
 ![minertocat](https://octodex.github.com/images/minertocat.png)
 {: .center}
